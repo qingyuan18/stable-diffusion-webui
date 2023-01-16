@@ -298,4 +298,4 @@ def start():
 
 if __name__ == "__main__":
     prepare_enviroment()
-    start()
+    #start()
